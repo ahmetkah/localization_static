@@ -1,6 +1,7 @@
 # LocalizationStatic
 
-Bu projenin ne yaptığı ve kimin için olduğu hakkında kısa bir açıklama
+Bu projenin detaylarına aşağıdaki [Medium makalesinden](https://ahmet-kahrimanoglu.medium.com/flutterda-lokalizasyon-localization-l10n-i%CC%87%C5%9Flemleri-1-statik-%C3%A7oklu-dil-deste%C4%9Fi-ekleme-906b513d5283) ulaşabilirsiniz.
+
 
 ## Proje Geliştirme Ortamı
 ▶️ Dart Version: 3.0.6 (Stable)
